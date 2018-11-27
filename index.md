@@ -4,7 +4,7 @@
 
 ### 联系方式
 
-##QQ群：  296374497
-##CSDN:   http://blog.csdn.net/capmiachael
-##邮箱：  shanghai_dreams@sina.cn
-##github: https://github.com/iamyong
+## QQ群：  296374497
+## CSDN:   http://blog.csdn.net/capmiachael
+## 邮箱：  shanghai_dreams@sina.cn
+## github: https://github.com/iamyong
