@@ -1,4 +1,4 @@
-## Welcome to My GitHub Pages  欢迎来到我的主页
+## 欢迎来到我的主页
 
 
 
